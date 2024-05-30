@@ -1,1 +1,3 @@
-/Users/tuneerroy/.bashrc
+
+. "$HOME/.cargo/env"
+alias k='kubectl'
